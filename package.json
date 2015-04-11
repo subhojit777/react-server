@@ -1,0 +1,11 @@
+{
+  "name": "react-server",
+  "description": "A very simple implementation of server-side React rendering",
+  "main": "server.js",
+  "author": "Subhojit Paul <subhojitpaul21@gmail.com>",
+  "dependencies": {
+    "browserify": "^9.0.3",
+    "literalify": "^0.4.0",
+    "react": "^0.13.1"
+  }
+}
